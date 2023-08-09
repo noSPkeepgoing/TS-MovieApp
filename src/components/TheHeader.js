@@ -38,7 +38,7 @@ export default class TheHeader extends Component {
             </ul>
         </nav>
         <a href="#/about" class="user">
-            <img />
+            <img src="https://github.com/noSPkeepgoing/JS-MovieApp/assets/125979833/83e4410f-4667-4a00-af05-2067ab31b984" />
         </a>
         `;
   }
